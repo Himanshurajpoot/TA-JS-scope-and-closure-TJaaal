@@ -24,7 +24,7 @@ console.log(fullName);
 var userMessage = sayHelloToUser('Bran');
 ```
 
-<!-- Put your image below -->
+<!--kkkk Put your image below -->
 
 `![](./imgs/ans1.jpg)`
 
@@ -45,7 +45,7 @@ sayHi();
 
 `![](./imgs/ans2.jpg)`
 
-3.
+3.kkg
 
 ```js
 function sayHi() {
