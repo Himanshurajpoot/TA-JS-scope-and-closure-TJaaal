@@ -75,6 +75,7 @@ function main() {
 main();
 console.log(one, two, three, four); // error three is not define
 ```
+<!-- /////fghjk -->
 
 <!-- Put your image below -->
 
